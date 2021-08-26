@@ -1,0 +1,13 @@
+.comments {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .btnn {
+    font-size: 1.25rem;
+    background-color:#008080;
+    margin:20px;
+    padding:8px;
+    border-radius: 6px;
+    color: white;
+  }
